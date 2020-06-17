@@ -1,0 +1,36 @@
+{
+  "name": "zenkilies",
+  "version": "1.0.0",
+  "description": "Knowledge has its rewards, don't you think?",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenkilies/zenkilies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenkilies/zenkilies/issues"
+  },
+  "homepage": "https://github.com/zenkilies/zenkilies#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sass": "^1.26.7",
+    "system-font-css": "^2.0.2",
+    "uikit": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.6",
+    "@types/react": "^16.9.35",
+    "typescript": "^3.9.3"
+  }
+}
